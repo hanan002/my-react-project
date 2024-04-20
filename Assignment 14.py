@@ -4,7 +4,7 @@
 x = สีน้ำตาล
 o = สีขาว
 """
-number = int(input("ป้อนตัวเลข : "))
+number = int(input("ป้อนตัวเลขasdf: "))
 for row in range(1,number+1):
 	for colamn in range(1,number+1):
 		"""

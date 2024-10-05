@@ -1,1 +1,1 @@
-# my-react-project
+# my-python-project
